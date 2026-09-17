@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- APPISTOL -->
+		<Item>
+			<modelName>eo_appistol_redfire</modelName>
+			<txdName>eo_appistol_redfire</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>eo_appistol_redfire_mag1</modelName>
+			<txdName>eo_appistol_redfire_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>eo_appistol_redfire_flsh</modelName>
+			<txdName>eo_appistol_redfire_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

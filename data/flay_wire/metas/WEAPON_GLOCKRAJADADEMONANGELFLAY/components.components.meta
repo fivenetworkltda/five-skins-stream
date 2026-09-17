@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+	<Data/>
+	<Infos>
+
+	<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_GLOCKRAJADADEMONANGELFLAY_01</Name>
+			<Model>w_ar_glockrajadademonangelflay_camo1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+    
+    <Item type="CWeaponComponentClipInfo">
+      <Name>COMPONENT_GLOCKRAJADADEMONANGELFLAY_CLIP_01</Name>
+      <Model>w_ar_glockrajadademonangelflay_mag1</Model>
+      <LocName>WCT_CLIP1</LocName>
+      <LocDesc>WCD_CR_CLIP1</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="100" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <ClipSize value="30" />
+      <ReloadData ref="RELOAD_DEFAULT" />
+    </Item>
+
+	</Infos>
+	<InfoBlobName>DLC - Flayy</InfoBlobName>
+</CWeaponComponentInfoBlob>

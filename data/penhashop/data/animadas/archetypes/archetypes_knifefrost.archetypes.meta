@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!--FACA-->
+		<Item>
+			<modelName>w_me_knife_ice</modelName>
+			<txdName>w_me_knife_ice</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- special carbine -->
+		<Item>
+			<modelName>eo_specialcarbinemk2_redfire</modelName>
+			<txdName>eo_specialcarbinemk2_redfire</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_redfire_mag1</modelName>
+			<txdName>eo_specialcarbinemk2_redfire_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_redfire_afgrip_01</modelName>
+			<txdName>eo_specialcarbinemk2_redfire_afgrip_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_redfire_scope</modelName>
+			<txdName>eo_specialcarbinemk2_redfire_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_redfire_barrel</modelName>
+			<txdName>eo_specialcarbinemk2_redfire_barrel</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_redfire_muzzle_1</modelName>
+			<txdName>eo_specialcarbinemk2_redfire_muzzle_1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<!-- <Item>
+			<modelName>eo_specialcarbinemk2_redfire_mag2</modelName>
+			<txdName>eo_specialcarbinemk2_redfire_mag2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item> -->
+		<!-- <Item>
+			<modelName>eo_specialcarbinemk2_redfire_flsh</modelName>
+			<txdName>eo_specialcarbinemk2_redfire_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item> -->
+		<!-- <Item>
+			<modelName>eo_specialcarbinemk2_redfire_supp</modelName>
+			<txdName>eo_specialcarbinemk2_redfire_supp</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item> -->
+		<!-- <Item>
+			<modelName>eo_specialcarbinemk2_redfire_camo</modelName>
+			<txdName>eo_specialcarbinemk2_redfire_camo</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item> -->
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

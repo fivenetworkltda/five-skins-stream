@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponInfoBlob>
+	<SlotNavigateOrder>
+		<Item>
+			<WeaponSlots>
+				<Item>
+					<OrderNumber value="181" />
+					<Entry>SLOT_CARBINERIFLE_MK2</Entry>
+				</Item>
+			</WeaponSlots>
+		</Item>
+		<Item>
+			<WeaponSlots>
+				<Item>
+					<OrderNumber value="191" />
+					<Entry>SLOT_CARBINERIFLE_MK2</Entry>
+				</Item>
+			</WeaponSlots>
+		</Item>
+	</SlotNavigateOrder>
+	<SlotBestOrder>
+		<WeaponSlots>
+			<Item>
+				<OrderNumber value="59" />
+				<Entry>SLOT_CARBINERIFLE_MK2</Entry>
+			</Item>
+		</WeaponSlots>
+	</SlotBestOrder>
+	<TintSpecValues />
+	<FiringPatternAliases />
+	<UpperBodyFixupExpressionData />
+	<AimingInfos />
+	<Infos>
+		<Item>
+			<Infos />
+		</Item>
+		<Item>
+			<Infos>
+			</Infos>
+		</Item>
+		<Item>
+			<Infos />
+		</Item>
+		<Item>
+			<Infos />
+		</Item>
+	</Infos>
+	<VehicleWeaponInfos />
+	<WeaponGroupDamageForArmouredVehicleGlass />
+	<Name>DLC - Mk II - Carbine Rifle</Name>
+</CWeaponInfoBlob>

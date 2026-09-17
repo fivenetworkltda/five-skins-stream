@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+	<Data>
+	</Data>
+	<Infos>
+		<!--Assault Rifle-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_ASSAULTRIFLE_PERMAFROST_CLIP1</Name>
+			<Model>weapon_assaultriflemk2_permafrost_mag1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_ASSAULTRIFLE_PERMAFROST_ANIM</Name>
+			<Model>weapon_assaultriflemk2_permafrost_anim</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+	</Infos>
+	<InfoBlobName>DLC - PACK RGX</InfoBlobName>
+</CWeaponComponentInfoBlob>

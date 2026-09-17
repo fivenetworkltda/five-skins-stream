@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_flk_knifefujinflay_camo1</modelName>
+			<txdName>w_flk_knifefujinflay_camo1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="175"/>
+		</Item>
+		<Item>
+			<modelName>w_flk_knifefujinflay</modelName>
+			<txdName>w_flk_knifefujinflay</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="175"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- special carbine -->
+		<Item>
+			<modelName>eo_specialcarbinemk2_halloween</modelName>
+			<txdName>eo_specialcarbinemk2_halloween</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_halloween_mag1</modelName>
+			<txdName>eo_specialcarbinemk2_halloween_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_halloween_afgrip_01</modelName>
+			<txdName>eo_specialcarbinemk2_halloween_afgrip_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_halloween_scope</modelName>
+			<txdName>eo_specialcarbinemk2_halloween_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_halloween_barrel</modelName>
+			<txdName>eo_specialcarbinemk2_halloween_barrel</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_halloween_muzzle_1</modelName>
+			<txdName>eo_specialcarbinemk2_halloween_muzzle_1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_halloween_supp</modelName>
+			<txdName>eo_specialcarbinemk2_halloween_supp</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_halloween_camo</modelName>
+			<txdName>eo_specialcarbinemk2_halloween_camo</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

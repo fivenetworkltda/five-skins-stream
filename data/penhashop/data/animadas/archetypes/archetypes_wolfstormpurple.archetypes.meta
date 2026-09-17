@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- CARBINE RIFLE MK2 WOLFSTORMPURPLE -->
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_wolfstorm_purple</modelName>
+			<txdName>eo_ar_carbineriflemk2_wolfstorm_purple</txdName>
+			<ptfxAssetName>weapon_tracer_purple_nany</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_wolfstorm_mag1</modelName>
+			<txdName>eo_ar_carbineriflemk2_wolfstorm_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

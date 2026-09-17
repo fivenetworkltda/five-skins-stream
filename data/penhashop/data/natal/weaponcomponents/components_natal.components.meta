@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponComponentInfoBlob>
+	<Infos>
+		<!--PISTOLMK2 NATAL-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_PENHASHOP_PISTOLMK2_NATAL_CLIP_01</Name>
+			<Model>nany_pistolmk2_natal_mag1</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_P_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="12" />
+			<AmmoInfo></AmmoInfo>
+			<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_PENHASHOP_PISTOLMK2_NATAL_CLIP_02</Name>
+			<Model>nany_pistolmk2_natal_mag2</Model>
+			<LocName>WCT_CLIP2</LocName>
+			<LocDesc>WCD_CLIP2</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="33" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="12" />
+			<ReloadData ref="RELOAD_LARGE_WITH_EMPTIES" />
+			<AmmoInfo />
+			<TracerFx />
+			<TracerFxSpacing value="-1" />
+			<TracerFxForceLast value="-1" />
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_PENHASHOP_PISTOLMK2_NATAL_SCOPE</Name>
+			<Model>nany_pistolmk2_natal_pi_rail_1</Model>
+			<LocName>WCT_SCOPE_PI</LocName>
+			<LocDesc>WCD_SCOPE_PI</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<CameraHash />
+			<RecoilShakeAmplitude value="0.280000" />
+			<ExtraZoomFactorForAccurateMode value="1.200000" />
+			<Reticule value="0" />
+			<ReticuleHash />
+			<SpecialScopeType />
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_PENHASHOP_PISTOLMK2_NATAL_FLSH</Name>
+			<Model>nany_pistolmk2_natal_flsh_2</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<MainLightIntensity value="6.000000" />
+			<MainLightColor value="0xFFC9C9FF" />
+			<MainLightRange value="30.000000" />
+			<MainLightFalloffExponent value="32.000000" />
+			<MainLightInnerAngle value="0.000000" />
+			<MainLightOuterAngle value="20.000000" />
+			<MainLightCoronaIntensity value="3.000000" />
+			<MainLightCoronaSize value="0.200000" />
+			<MainLightVolumeIntensity value="0.300000" />
+			<MainLightVolumeSize value="0.100000" />
+			<MainLightVolumeExponent value="70.000000" />
+			<MainLightVolumeOuterColor value="0xFF050E3B" />
+			<MainLightShadowFadeDistance value="10.000000" />
+			<MainLightSpecularFadeDistance value="10.000000" />
+			<SecondaryLightIntensity value="4.000000" />
+			<SecondaryLightColor value="0xFFFFFFFF" />
+			<SecondaryLightRange value="6.000000" />
+			<SecondaryLightFalloffExponent value="64.000000" />
+			<SecondaryLightInnerAngle value="0.000000" />
+			<SecondaryLightOuterAngle value="40.000000" />
+			<SecondaryLightVolumeIntensity value="0.300000" />
+			<SecondaryLightVolumeSize value="0.400000" />
+			<SecondaryLightVolumeExponent value="24.000000" />
+			<SecondaryLightVolumeOuterColor value="0xFF000F85" />
+			<SecondaryLightFadeDistance value="10.000000" />
+			<fTargetDistalongAimCamera value="8.000000" />
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_PENHASHOP_PISTOLMK2_NATAL_SUPP</Name>
+			<Model>nany_pistolmk2_natal_supp_2</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_PI_SUPP</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="CWeaponDamageModifier">
+				<DamageModifier value="1.000000" />
+			</DamageModifier>
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="-5" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="-5" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_PENHASHOP_PISTOLMK2_NATAL_CAMO01</Name>
+			<Model>nany_pistolmk2_natal_camo1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<!--BULLPUPRIFLE
+		NATAL-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_BULLPUPRIFLEMK2_NATAL_CLIP_01</Name>
+			<Model>w_ar_bullpupriflemk2_natal_bullpupriflemk2_mag1</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+			<AmmoInfo />
+			<TracerFx />
+			<TracerFxSpacing value="-1" />
+			<TracerFxForceLast value="-1" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_BULLPUPRIFLEMK2_NATAL_CLIP_02</Name>
+			<Model>w_ar_bullpupriflemk2_natal_bullpupriflemk2_mag2</Model>
+			<LocName>WCT_CLIP2</LocName>
+			<LocDesc>WCD_CLIP2</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="100" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+			<AmmoInfo />
+			<TracerFx />
+			<TracerFxSpacing value="-1" />
+			<TracerFxForceLast value="-1" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AT_BP_BARREL_01_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_mk2_barrel1</Model>
+			<LocName>WCT_BARR</LocName>
+			<LocDesc>WCD_BARR</LocDesc>
+			<AttachBone>AAPBarrel</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<ApplyWeaponTint value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_PENHASHOP_BULLPUPRIFLEMK2_NATAL_FLSH</Name>
+			<Model>w_ar_bullpupriflemk2_natal_ar_flsh</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<MainLightIntensity value="6.000000" />
+			<MainLightColor value="0x00FFFFFF" />
+			<MainLightRange value="20.000000" />
+			<MainLightFalloffExponent value="32.000000" />
+			<MainLightInnerAngle value="0.000000" />
+			<MainLightOuterAngle value="20.000000" />
+			<MainLightCoronaIntensity value="3.000000" />
+			<MainLightCoronaSize value="0.200000" />
+			<MainLightVolumeIntensity value="0.120000" />
+			<MainLightVolumeSize value="0.030000" />
+			<MainLightVolumeExponent value="0.010000" />
+			<MainLightVolumeOuterColor value="0x00FFFFFF" />
+			<MainLightShadowFadeDistance value="15.000000" />
+			<MainLightSpecularFadeDistance value="15.000000" />
+			<SecondaryLightIntensity value="4.000000" />
+			<SecondaryLightColor value="0x00FFFFFF" />
+			<SecondaryLightRange value="6.000000" />
+			<SecondaryLightFalloffExponent value="64.000000" />
+			<SecondaryLightInnerAngle value="0.000000" />
+			<SecondaryLightOuterAngle value="60.000000" />
+			<SecondaryLightVolumeIntensity value="0.300000" />
+			<SecondaryLightVolumeSize value="0.400000" />
+			<SecondaryLightVolumeExponent value="24.000000" />
+			<SecondaryLightVolumeOuterColor value="0x00FFFFFF" />
+			<SecondaryLightFadeDistance value="10.000000" />
+			<fTargetDistalongAimCamera value="8.000000" />
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AT_SCOPE_MACRO_02_MK2_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_scope_macro_2_mk2</Model>
+			<LocName>WCT_SCOPE_MAC2</LocName>
+			<LocDesc>WCD_SCOPE_MAC</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<CameraHash />
+			<RecoilShakeAmplitude value="0.280000" />
+			<ExtraZoomFactorForAccurateMode value="1.200000" />
+			<Reticule value="0" />
+			<ReticuleHash />
+			<SpecialScopeType />
+		</Item>
+
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AT_SCOPE_SMALL_MK2_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_scope_small</Model>
+			<LocName>WCT_SCOPE_SML2</LocName>
+			<LocDesc>WCD_SCOPE_SML</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<CameraHash />
+			<RecoilShakeAmplitude value="0.280000" />
+			<ExtraZoomFactorForAccurateMode value="1.200000" />
+			<Reticule value="0" />
+			<ReticuleHash />
+			<SpecialScopeType />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AT_AR_SUPP_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_ar_supp</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="CWeaponDamageModifier">
+				<DamageModifier value="1.000000" />
+			</DamageModifier>
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="-5" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="-5" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>
+		<!-- MUZZLES -->
+
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AT_MUZZLE_01_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_muzzle_1</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AT_MUZZLE_02_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_muzzle_2</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AT_MUZZLE_03_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_muzzle_3</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AT_MUZZLE_04_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_muzzle_4</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AT_MUZZLE_05_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_muzzle_5</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AT_MUZZLE_06_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_muzzle_6</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AT_MUZZLE_07_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_muzzle_7</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AT_AR_AFGRIP_02_BULLPUPRIFLEMK2_NATAL</Name>
+			<Model>w_ar_bullpupriflemk2_natal_afgrip_2</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000" />
+			</AccuracyModifier>
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_BULLPUPMK2NATAL_CAMO01</Name>
+			<Model>w_ar_bullpupriflemk2_natal_camo1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<!--m4natal-->
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_PENHASHOP_HEAVYRIFLE_NATAL_ANI</Name>
+			<Model>pl_penhashop_heavyrilfie_natal_ani</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_PL_PENHASHOP_CARBINERIFLE_ICE_CLIP_01</Name>
+			<Model>w_pl_penhashop_carbinerifle_ice_mag1</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_CR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="30"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+		<!--SPECIALCARBINE NATAL-->
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_SPECIALCARBINENATAL_CAMO01</Name>
+			<Model>nany_specialcarbine_natal_camo1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_SPECIALCARBINE_NATAL_CLIP_01</Name>
+			<Model>nany_specialcarbine_natal_mag1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AT_AR_AFGRIP_NATAL</Name>
+			<Model>nany_specialcarbine_natal_afgrip</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000" />
+			</AccuracyModifier>
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+		</Item>
+	</Infos>
+	<InfoBlobName />
+</CWeaponComponentInfoBlob>

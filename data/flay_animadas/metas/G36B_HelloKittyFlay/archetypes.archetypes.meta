@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+    <Item>
+      <modelName>w_ar_g36bhellokittyflay</modelName>
+      <txdName>w_ar_g36bhellokittyflay</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="550"/>
+    </Item>
+      <Item>
+      <modelName>hellog3_mag1</modelName>
+      <txdName>hellog3_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

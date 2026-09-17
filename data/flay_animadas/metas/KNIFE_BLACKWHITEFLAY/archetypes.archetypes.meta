@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_me_knifeblackwhiteflay</modelName>
+			<txdName>w_me_knifeblackwhiteflay</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="175"/>
+		</Item>
+		<Item>
+			<modelName>effectflay</modelName>
+			<txdName>effectflay</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="55"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

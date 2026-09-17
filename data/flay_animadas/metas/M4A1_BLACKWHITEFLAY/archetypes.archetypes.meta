@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+    <Item>
+      <modelName>w_ar_m4a1blackwhiteflay</modelName>
+      <txdName>w_ar_m4a1blackwhiteflay</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="550"/>
+    </Item>
+      <Item>
+      <modelName>m4a1blackwhite_mag1</modelName>
+      <txdName>m4a1blackwhite_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

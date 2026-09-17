@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+	<Data>
+	</Data>
+	<Infos>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_PINKFIRE_CAMO01</Name>
+			<Model>nany_pinkfire_carbinemk2_camo1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_PINKFIRE_CLIP_01</Name>
+			<Model>nany_pinkfire_specialcarbinemk2_mag1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_PINKFIRE_AT_AR_SUPP</Name>
+			<Model>nany_pinkfire_supp_specialcarbinemk2</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="CWeaponDamageModifier">
+				<DamageModifier value="1.000000" />
+			</DamageModifier>
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="-5" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="-5" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_PINKFIRE_SCOPE_SPECIAL_02</Name>
+			<Model>nany_pinkfire_scope_special_02</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="0.000000"/>
+			<MainLightColor value="0x0000FF00"/>
+			<MainLightRange value="0.000000"/>
+			<MainLightFalloffExponent value="0.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="0.000000"/>
+			<MainLightCoronaIntensity value="0.000000"/>
+			<MainLightCoronaSize value="0.000000"/>
+			<MainLightVolumeIntensity value="0.000000"/>
+			<MainLightVolumeSize value="0.000000"/>
+			<MainLightVolumeExponent value="0.000000"/>
+			<MainLightVolumeOuterColor value="0x0000FF00"/>
+			<MainLightShadowFadeDistance value="0.000000"/>
+			<MainLightSpecularFadeDistance value="0.000000"/>
+			<SecondaryLightIntensity value="0.000000"/>
+			<SecondaryLightColor value="0x0000FF00"/>
+			<SecondaryLightRange value="0.000000"/>
+			<SecondaryLightFalloffExponent value="0.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="0.000000"/>
+			<SecondaryLightVolumeIntensity value="0.000000"/>
+			<SecondaryLightVolumeSize value="0.000000"/>
+			<SecondaryLightVolumeExponent value="0.000000"/>
+			<SecondaryLightVolumeOuterColor value="0x0000FF00"/>
+			<SecondaryLightFadeDistance value="0.000000"/>
+			<fTargetDistalongAimCamera value="0.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_Off001</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_On001</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_PINKFIRE_SCOPE_02</Name>
+			<Model>nany_pinkfire_specialcarbinemk2_scope_02</Model>
+			<LocName>WCT_SCOPE_MAC</LocName>
+			<LocDesc>WCD_SCOPE_MAC</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<RecoilShakeAmplitude value="0.280000"/>
+			<ExtraZoomFactorForAccurateMode value="1.200000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_PINKFIRE_AT_AR_FLSH</Name>
+			<Model>nany_pinkfire_flsh_2_g3</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<MainLightIntensity value="86.000000" />
+			<MainLightColor value="0xFF1493" />
+			<MainLightRange value="30.000000" />
+			<MainLightFalloffExponent value="32.000000" />
+			<MainLightInnerAngle value="0.000000" />
+			<MainLightOuterAngle value="20.000000" />
+			<MainLightCoronaIntensity value="3.000000" />
+			<MainLightCoronaSize value="0.200000" />
+			<MainLightVolumeIntensity value="0.300000" />
+			<MainLightVolumeSize value="0.100000" />
+			<MainLightVolumeExponent value="70.000000" />
+			<MainLightVolumeOuterColor value="0xFF050E3B" />
+			<MainLightShadowFadeDistance value="10.000000" />
+			<MainLightSpecularFadeDistance value="10.000000" />
+			<SecondaryLightIntensity value="4.000000" />
+			<SecondaryLightColor value="0xFF1493" />
+			<SecondaryLightRange value="6.000000" />
+			<SecondaryLightFalloffExponent value="64.000000" />
+			<SecondaryLightInnerAngle value="0.000000" />
+			<SecondaryLightOuterAngle value="40.000000" />
+			<SecondaryLightVolumeIntensity value="0.300000" />
+			<SecondaryLightVolumeSize value="0.400000" />
+			<SecondaryLightVolumeExponent value="24.000000" />
+			<SecondaryLightVolumeOuterColor value="0xFF000F85" />
+			<SecondaryLightFadeDistance value="10.000000" />
+			<fTargetDistalongAimCamera value="8.000000" />
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+	</Infos>
+	<InfoBlobName>DLC - HELLFIRE</InfoBlobName>
+</CWeaponComponentInfoBlob>

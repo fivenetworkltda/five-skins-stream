@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_ar_pl_g3_levelup_g_mag1</modelName>
+			<txdName>w_ar_pl_g3_levelup_g_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_pl_g3_levelup_g</modelName>
+			<txdName>w_ar_pl_g3_levelup_g</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+		<!--faca-->
+		<Item>
+			<modelName>w_me_pl_faca_levelup_g</modelName>
+			<txdName>w_me_pl_faca_levelup_g</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+		<!--pistol-->
+		<Item>
+			<modelName>w_pi_pl_pistol_levelup_g_mag1</modelName>
+			<txdName>w_pi_pl_pistol_levelup_g_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_pl_pistol_levelup_g</modelName>
+			<txdName>w_pi_pl_pistol_levelup_g</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+		<!--mtar-->
+		<Item>
+			<modelName>w_sb_pl_mtar_levelup_g_mag1</modelName>
+			<txdName>w_sb_pl_mtar_levelup_g_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_sb_pl_mtar_levelup_g</modelName>
+			<txdName>w_sb_pl_mtar_levelup_g</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

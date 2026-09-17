@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>	
+		 <Item>
+			<modelName>eo_appistol_didi</modelName>
+			<txdName>eo_appistol_didi</txdName>
+			<ptfxAssetName>NUUL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_appistol_didi_mag1</modelName>
+			<txdName>eo_appistol_didi_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_appistol_didi_flsh</modelName>
+			<txdName>eo_appistol_didi_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

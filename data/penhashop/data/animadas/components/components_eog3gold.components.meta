@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+	<Data>
+	</Data>
+	<Infos>
+		 <Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_SPECIALCARBINE_G3_GOLD_CLIP_01</Name>
+			<Model>eo_specialcarbinemk2_g3_gold_mag1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_SPECIALCARBINE_G3_GOLD_SCOPE</Name>
+			<Model>eo_specialcarbinemk2_g3_gold_scope</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_SPECIALCARBINE_G3_GOLD_CAMO</Name>
+			<Model>eo_specialcarbinemk2_g3_gold_anim</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+	</Infos>
+	<InfoBlobName>DLC - Special carbine mk2 aura black</InfoBlobName>
+</CWeaponComponentInfoBlob>

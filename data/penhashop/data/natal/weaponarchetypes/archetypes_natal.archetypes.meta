@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- Pistol Mk2 Natal-->
+		<Item>
+			<modelName>nany_pistolmk2_natal</modelName>
+			<txdName>nany_pistolmk2_natal</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>nany_pistolmk2_natal_flsh_2</modelName>
+			<txdName>nany_pistolmk2_natal_flsh_2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>nany_pistolmk2_natal_mag1</modelName>
+			<txdName>nany_pistolmk2_natal_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>nany_pistolmk2_natal_mag2</modelName>
+			<txdName>nany_pistolmk2_natal_mag2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>nany_pistolmk2_natal_pi_rail_1</modelName>
+			<txdName>nany_pistolmk2_natal_pi_rail_1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>nany_pistolmk2_natal_supp_2</modelName>
+			<txdName>nany_pistolmk2_natal_supp_2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<!--G3MK1 NATAL-->
+		<Item>
+			<modelName>nany_specialcarbine_natal_mag1</modelName>
+			<txdName>nany_specialcarbine_natal_mag1</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>nany_specialcarbine_natal</modelName>
+			<txdName>nany_specialcarbine_natal</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>nany_specialcarbine_natal_afgrip</modelName>
+			<txdName>nany_specialcarbine_natal_afgrip</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<!--BULLPUPRIFLEMK2 NATAL-->
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_afgrip_2</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_afgrip_2</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_ar_flsh</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_ar_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_bullpupriflemk2_mag1</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_bullpupriflemk2_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_bullpupriflemk2_mag2</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_bullpupriflemk2_mag2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_mk2_barrel1</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_mk2_barrel1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_muzzle_1</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_muzzle_1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_muzzle_2</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_muzzle_2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_muzzle_3</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_muzzle_3</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_muzzle_4</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_muzzle_4</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_muzzle_5</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_muzzle_5</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_muzzle_6</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_muzzle_6</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_muzzle_7</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_muzzle_7</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_scope_macro_2_mk2</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_scope_macro_2_mk2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_scope_small</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_scope_small</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_bullpupriflemk2_natal_ar_supp</modelName>
+			<txdName>w_ar_bullpupriflemk2_natal_ar_supp</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<!--m4natal-->
+		<Item>
+			<modelName>w_pl_penhashop_carbinerifle_ice_mag1</modelName>
+			<txdName>w_pl_penhashop_carbinerifle_ice_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>w_pl_penhashop_carbinerifle_ice_gun</modelName>
+			<txdName>w_pl_penhashop_carbinerifle_ice_gun</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

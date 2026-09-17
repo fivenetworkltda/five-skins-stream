@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>nany_uzicopa</modelName>
+			<txdName>nany_uzicopa</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>nany_uzicopa_mag1</modelName>
+			<txdName>nany_uzicopa_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

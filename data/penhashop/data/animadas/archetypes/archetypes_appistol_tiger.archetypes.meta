@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>	
+		 <Item>
+			<modelName>eo_tiger_pistolmk2</modelName>
+			<txdName>eo_tiger_pistolmk2</txdName>
+			<ptfxAssetName>weapon_tracer_eo_nany_orange</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_tiger_pistolmk2_mag1</modelName>
+			<txdName>eo_tiger_pistolmk2_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_tiger_pistolmk2_flsh</modelName>
+			<txdName>eo_tiger_pistolmk2_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

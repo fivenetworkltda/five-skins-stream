@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>karambit_yellowwireflaycamo1</modelName>
+			<txdName>karambit_yellowwireflaycamo1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="175"/>
+		</Item>
+		<Item>
+			<modelName>karambit_yellowwireflay</modelName>
+			<txdName>karambit_yellowwireflay</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="175"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

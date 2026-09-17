@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+    <Item>
+      <modelName>w_ar_pistolsilentspiritflay</modelName>
+      <txdName>w_ar_pistolsilentspiritflay</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="550"/>
+    </Item>
+      <Item>
+      <modelName>w_ar_pistolsilentspiritflay_mag1</modelName>
+      <txdName>w_ar_pistolsilentspiritflay_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+       <Item>
+      <modelName>w_ar_pistolsilentspiritflay_camo1</modelName>
+      <txdName>w_ar_pistolsilentspiritflay_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

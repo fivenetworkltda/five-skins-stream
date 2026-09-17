@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>elieloliveira_bandoleira_01</modelName>
+			<txdName>elieloliveira_bandoleira_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_carbinerifle_01_supp</modelName>
+			<txdName>elieloliveira_carbinerifle_01_supp</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_carbinerifle_01_scope</modelName>
+			<txdName>elieloliveira_carbinerifle_01_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_carbinerifle_01_mag1</modelName>
+			<txdName>elieloliveira_carbinerifle_01_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_carbinerifle_01_flsh</modelName>
+			<txdName>elieloliveira_carbinerifle_01_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_carbinerifle_01</modelName>
+			<txdName>elieloliveira_carbinerifle_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+    <Item>
+      <modelName>w_ar_m4a1shinobu</modelName>
+      <txdName>w_ar_m4a1shinobu</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="550"/>
+    </Item>
+      <Item>
+      <modelName>m4a1shinobu_mag</modelName>
+      <txdName>m4a1shinobu_mag</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

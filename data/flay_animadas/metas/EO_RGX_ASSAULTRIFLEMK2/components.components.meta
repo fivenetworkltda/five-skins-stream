@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+	<Data>
+	</Data>
+	<Infos>
+		<!-- knife -->
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_PACKRGX_KNIFE_ANIM</Name>
+			<Model>eo_rgx_knife_anim</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<!--Assault Rifle-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_PACKRGX_ASSAULTRIFLE_CLIP1</Name>
+			<Model>eo_rgx_assaultriflemk2_mag1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_PACKRGX_ASSAULTRIFLE_ANIM</Name>
+			<Model>eo_rgx_assaultriflemk2_anim</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<!--Pistol	Mk2-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_PACKRGX_PISTOLMK2_CLIP1</Name>
+			<Model>eo_rgx_pistolmk2_mag1</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_P_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="12" />
+			<AmmoInfo></AmmoInfo>
+			<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_PACKRGX_PISTOLMK2_ANIM</Name>
+			<Model>eo_rgx_pistolmk2_anim</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<!--Special	Carbine-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_PACKRGX_SPECIALCARBINE_CLIP1</Name>
+			<Model>eo_rgx_specialcarbine_mag1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_PACKRGX_SPECIALCARBINE_ANIM</Name>
+			<Model>eo_rgx_specialcarbine_anim</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<!--Machine	Pistol-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_PACKRGX_MACHINEPISTOL_CLIP1</Name>
+			<Model>eo_rgx_compactsmg_mag1</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_MP_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<AmmoInfo></AmmoInfo>
+			<ClipSize value="18" />
+			<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		</Item>
+
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_PACKRGX_MACHINEPISTOL_ANIM</Name>
+			<Model>eo_rgx_compactsmg_anim</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+
+	</Infos>
+	<InfoBlobName>DLC - PACK RGX</InfoBlobName>
+</CWeaponComponentInfoBlob>

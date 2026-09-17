@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- CARBINE RIFLE MK2 -->
+		<Item>
+			<modelName>eo_carbineriflemk2_halloween</modelName>
+			<txdName>eo_carbineriflemk2_halloween</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_carbineriflemk2_halloween_mag1</modelName>
+			<txdName>eo_carbineriflemk2_halloween_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_carbineriflemk2_halloween_grip</modelName>
+			<txdName>eo_carbineriflemk2_halloween_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_carbineriflemk2_halloween_muzzle</modelName>
+			<txdName>eo_carbineriflemk2_halloween_muzzle</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_carbineriflemk2_halloween_scope</modelName>
+			<txdName>eo_carbineriflemk2_halloween_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_halloween_carbineriflemk2_camo</modelName>
+			<txdName>eo_halloween_carbineriflemk2_camo</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

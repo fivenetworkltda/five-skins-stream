@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+  		<Item>
+			<modelName>g36bblackwhite_mag1</modelName>
+			<txdName>g36bblackwhite_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+    <Item>
+      <modelName>w_ar_g36bblackwhiteflay</modelName>
+      <txdName>w_ar_g36bblackwhiteflay</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="550"/>
+    </Item>
+        <Item>
+      <modelName>effectflayg36b</modelName>
+      <txdName>effectflayg36b</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

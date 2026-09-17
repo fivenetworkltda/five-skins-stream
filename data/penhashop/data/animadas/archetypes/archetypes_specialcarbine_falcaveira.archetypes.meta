@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>eo_fal_caveira</modelName>
+			<txdName>eo_fal_caveira</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+		<Item>
+			<modelName>eo_fal_caveira_mag1</modelName>
+			<txdName>eo_fal_caveira_mag1</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+		<Item>
+			<modelName>eo_fal_caveira_scope</modelName>
+			<txdName>eo_fal_caveira_scope</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+	<Infos>
+		<!--Special Carbine mk2-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_EOCHAMPIONS_SPECIALCARBINEMK2_CLIP_01</Name>
+			<Model>eo_specialcarbinemk2_champions_mag1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_EOCHAMPIONS_SPECIALCARBINEMK2_CLIP_02</Name>
+			<Model>eo_specialcarbinemk2_champions_mag2</Model>
+			<LocName>WCT_CLIP2</LocName>
+			<LocDesc>WCD_CLIP2</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="100" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+			<AmmoInfo />
+			<TracerFx />
+			<TracerFxSpacing value="-1" />
+			<TracerFxForceLast value="-1" />
+		</Item>
+
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_EOCHAMPIONS_SPECIALCARBINEMK2_MUZZLE_01</Name>
+			<Model>eo_specialcarbinemk2_champions_muzzle_1</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_EOCHAMPIONS_SPECIALCARBINEMK2_AFGRIP_01</Name>
+			<Model>eo_specialcarbinemk2_champions_afgrip_01</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000" />
+			</AccuracyModifier>
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_EOCHAMPIONS_SPECIALCARBINEMK2_SCOPE</Name>
+			<Model>eo_specialcarbinemk2_champions_scope</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<CameraHash />
+			<RecoilShakeAmplitude value="0.280000" />
+			<ExtraZoomFactorForAccurateMode value="1.500000" />
+			<Reticule value="0" />
+			<ReticuleHash />
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_EOCHAMPIONS_SPECIALCARBINEMK2_FLSH</Name>
+			<Model>eo_specialcarbinemk2_champions_flsh</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh001</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<MainLightIntensity value="6.000000" />
+			<MainLightColor value="0xFFFFD700" />
+			<MainLightRange value="20.000000" />
+			<MainLightFalloffExponent value="32.000000" />
+			<MainLightInnerAngle value="0.000000" />
+			<MainLightOuterAngle value="20.000000" />
+			<MainLightCoronaIntensity value="3.000000" />
+			<MainLightCoronaSize value="0.200000" />
+			<MainLightVolumeIntensity value="0.120000" />
+			<MainLightVolumeSize value="0.030000" />
+			<MainLightVolumeExponent value="0.010000" />
+			<MainLightVolumeOuterColor value="0xFFFFD700" />
+			<MainLightShadowFadeDistance value="15.000000" />
+			<MainLightSpecularFadeDistance value="15.000000" />
+			<SecondaryLightIntensity value="8.000000" />
+			<SecondaryLightColor value="0xFFFFD700" />
+			<SecondaryLightRange value="6.000000" />
+			<SecondaryLightFalloffExponent value="64.000000" />
+			<SecondaryLightInnerAngle value="0.000000" />
+			<SecondaryLightOuterAngle value="60.000000" />
+			<SecondaryLightVolumeIntensity value="0.300000" />
+			<SecondaryLightVolumeSize value="0.400000" />
+			<SecondaryLightVolumeExponent value="24.000000" />
+			<SecondaryLightVolumeOuterColor value="0xFFFFD700" />
+			<SecondaryLightFadeDistance value="10.000000" />
+			<fTargetDistalongAimCamera value="8.000000" />
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On001</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off001</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_EOCHAMPIONS_SPECIALCARBINEMK2_SUPP</Name>
+			<Model>eo_specialcarbinemk2_champions_supp</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="CWeaponDamageModifier">
+				<DamageModifier value="1.000000" />
+			</DamageModifier>
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="-5" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="-5" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_EOCHAMPIONS_SPECIALCARBINEMK2_BARREL_01</Name>
+			<Model>eo_specialcarbinemk2_champions_barrel</Model>
+			<LocName>WCT_BARR</LocName>
+			<LocDesc>WCD_BARR</LocDesc>
+			<AttachBone>AAPBarrel</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<ApplyWeaponTint value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_EOCHAMPIONS_SPECIALCARBINEMK2_CAMO</Name>
+			<Model>eo_specialcarbinemk2_champions_camo</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+
+		<!-- knife -->
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_PACKRGX_KNIFE_ANIM</Name>
+			<Model>eo_rgx_knife_anim</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+
+		<!-- appistol -->
+		 <Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_CHAMPIONS_APPISTOL_CLIP1</Name>
+			<Model>eo_appistol_champions_mag1</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_P_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<AmmoInfo></AmmoInfo>
+			<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_CHAMPIONS_APPISTOL_CLIP2</Name>
+			<Model>eo_appistol_champions_mag2</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_P_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<AmmoInfo></AmmoInfo>
+			<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_CHAMPIONS_APPISTOL_CLIP3</Name>
+			<Model>eo_appistol_champions_mag3</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_P_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<AmmoInfo></AmmoInfo>
+			<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_CHAMPIONS_APPISTOL_FLSH</Name>
+			<Model>eo_appistol_champions_flsh</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh001</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<MainLightIntensity value="6.000000" />
+			<MainLightColor value="0xFFFFD700" />
+			<MainLightRange value="20.000000" />
+			<MainLightFalloffExponent value="32.000000" />
+			<MainLightInnerAngle value="0.000000" />
+			<MainLightOuterAngle value="20.000000" />
+			<MainLightCoronaIntensity value="3.000000" />
+			<MainLightCoronaSize value="0.200000" />
+			<MainLightVolumeIntensity value="0.120000" />
+			<MainLightVolumeSize value="0.030000" />
+			<MainLightVolumeExponent value="0.010000" />
+			<MainLightVolumeOuterColor value="0xFFFFD700" />
+			<MainLightShadowFadeDistance value="15.000000" />
+			<MainLightSpecularFadeDistance value="15.000000" />
+			<SecondaryLightIntensity value="8.000000" />
+			<SecondaryLightColor value="0xFFFFD700" />
+			<SecondaryLightRange value="6.000000" />
+			<SecondaryLightFalloffExponent value="64.000000" />
+			<SecondaryLightInnerAngle value="0.000000" />
+			<SecondaryLightOuterAngle value="60.000000" />
+			<SecondaryLightVolumeIntensity value="0.300000" />
+			<SecondaryLightVolumeSize value="0.400000" />
+			<SecondaryLightVolumeExponent value="24.000000" />
+			<SecondaryLightVolumeOuterColor value="0xFFFFD700" />
+			<SecondaryLightFadeDistance value="10.000000" />
+			<fTargetDistalongAimCamera value="8.000000" />
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_CHAMPIONS_APPISTOL_SUPP</Name>
+			<Model>eo_appistol_champions_supp</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="CWeaponDamageModifier">
+				<DamageModifier value="1.000000" />
+			</DamageModifier>
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="-5" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="-5" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>
+
+
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_CHAMPIONS_APPISTOL_CAMO</Name>
+			<Model>eo_appistol_champions_camo</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<!--pistolmk2-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_ANGEL_PISTOLMK2_CLIP1</Name>
+			<Model>w_pi_pistolmk2_mag1_angel</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_P_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="12" />
+			<AmmoInfo></AmmoInfo>
+			<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		</Item>
+		<!--g3-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_SPECIALCARBINEANGEL_CLIP_01</Name>
+			<Model>w_ar_specialcarbinemk2_mag1_angel</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_SCRB_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="30"/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+	</Infos>
+	<InfoBlobName>DLC - PACK CHAMPIONS</InfoBlobName>
+</CWeaponComponentInfoBlob>

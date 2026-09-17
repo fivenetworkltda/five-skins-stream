@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- special carbine -->
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions</modelName>
+			<txdName>eo_specialcarbinemk2_champions</txdName>
+			<ptfxAssetName>NUUL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions_mag1</modelName>
+			<txdName>eo_specialcarbinemk2_champions_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions_mag2</modelName>
+			<txdName>eo_specialcarbinemk2_champions_mag2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions_afgrip_01</modelName>
+			<txdName>eo_specialcarbinemk2_champions_afgrip_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions_scope</modelName>
+			<txdName>eo_specialcarbinemk2_champions_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions_barrel</modelName>
+			<txdName>eo_specialcarbinemk2_champions_barrel</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions_flsh</modelName>
+			<txdName>eo_specialcarbinemk2_champions_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions_muzzle_1</modelName>
+			<txdName>eo_specialcarbinemk2_champions_muzzle_1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions_supp</modelName>
+			<txdName>eo_specialcarbinemk2_champions_supp</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_champions_camo</modelName>
+			<txdName>eo_specialcarbinemk2_champions_camo</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<!-- knife -->
+		 <Item>
+			<modelName>eo_rgx_knife</modelName>
+			<txdName>eo_rgx_knife</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_rgx_knife_anim</modelName>
+			<txdName>eo_rgx_knife_anim</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+
+		<!-- appistol -->
+		 <Item>
+			<modelName>eo_appistol_champions</modelName>
+			<txdName>eo_appistol_champions</txdName>
+			<ptfxAssetName>NUUL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_appistol_champions_mag1</modelName>
+			<txdName>eo_appistol_champions_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		 <Item>
+			<modelName>eo_appistol_champions_mag2</modelName>
+			<txdName>eo_appistol_champions_mag2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_appistol_champions_mag3</modelName>
+			<txdName>eo_appistol_champions_mag3</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		 <Item>
+			<modelName>eo_appistol_champions_flsh</modelName>
+			<txdName>eo_appistol_champions_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_appistol_champions_supp</modelName>
+			<txdName>eo_appistol_champions_supp</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_appistol_champions_camo</modelName>
+			<txdName>eo_appistol_champions_camo</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<!-- knife -->
+		<Item>
+			<modelName>eo_knife_champions</modelName>
+			<txdName>eo_knife_champions</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<!-- pistol mk2 -->
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

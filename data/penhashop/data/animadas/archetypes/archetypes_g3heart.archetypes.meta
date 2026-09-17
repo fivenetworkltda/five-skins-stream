@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+    <!--G3 HELLFIRE-->
+    <Item>
+      <modelName>nany_g3_heart_escope_special_02</modelName>
+      <txdName>nany_g3_heart_escope_special_02</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_g3_heart_mag1</modelName>
+      <txdName>nany_g3_heart_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_g3_heart_scope_02</modelName>
+      <txdName>nany_g3_heart_scope_02</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_g3_heart</modelName>
+      <txdName>nany_g3_heart</txdName>
+      <ptfxAssetName>weapon_tracer_eo_nany_rosa</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_g3_heart_supp</modelName>
+      <txdName>nany_g3_heart_supp</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_pinkfire_flsh_2_g3</modelName>
+      <txdName>nany_pinkfire_flsh_2_g3</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

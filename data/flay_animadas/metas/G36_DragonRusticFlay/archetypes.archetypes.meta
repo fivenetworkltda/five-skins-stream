@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+  		<Item>
+			<modelName>w_ar_g36dragonrusticflay_mag1</modelName>
+			<txdName>w_ar_g36dragonrusticflay_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+    <Item>
+      <modelName>w_ar_g36dragonrusticflay</modelName>
+      <txdName>w_ar_g36dragonrusticflay</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="550"/>
+    </Item>
+      <Item>
+      <modelName>w_ar_g36dragonrusticflay_camo1</modelName>
+      <txdName>w_ar_g36dragonrusticflay_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

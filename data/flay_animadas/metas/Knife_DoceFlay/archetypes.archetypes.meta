@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_me_tacodoceflay</modelName>
+			<txdName>w_me_tacodoceflay</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="150"/>
+		</Item>
+		<Item>
+			<modelName>w_me_tacodoceflay_camo1</modelName>
+			<txdName>w_me_tacodoceflay_camo1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="150"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

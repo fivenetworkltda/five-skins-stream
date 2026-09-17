@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>eo_specialcarbinemk2_g3_gold</modelName>
+			<txdName>eo_specialcarbinemk2_g3_gold</txdName>
+			<ptfxAssetName>NUUL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_g3_gold_mag1</modelName>
+			<txdName>eo_specialcarbinemk2_g3_gold_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_g3_gold_scope</modelName>
+			<txdName>eo_specialcarbinemk2_g3_gold_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

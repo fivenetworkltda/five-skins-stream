@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_me_bat_bat1</modelName>
+			<txdName>w_me_bat_bat1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_pi_pistolmk21_storm_mag1</modelName>
+			<txdName>w_pi_pistolmk21_storm_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>w_pi_pistolmk21_storm</modelName>
+			<txdName>w_pi_pistolmk21_storm</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_assaultrifle1_storm_mag1</modelName>
+			<txdName>w_ar_assaultrifle1_storm_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>w_ar_assaultrifle1_storm</modelName>
+			<txdName>w_ar_assaultrifle1_storm</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_sb_microsmg1_mag1</modelName>
+			<txdName>w_sb_microsmg1_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>w_sb_microsmg1</modelName>
+			<txdName>w_sb_microsmg1</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_specialcarbine1_storm_mag1</modelName>
+			<txdName>w_ar_specialcarbine1_storm_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>w_ar_specialcarbine1_storm</modelName>
+			<txdName>w_ar_specialcarbine1_storm</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

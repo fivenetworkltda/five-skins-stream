@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponComponentInfoBlob>
+  <Infos>
+		<!-- CARBINE RIFLE MK2 ANIME-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_M4ANIME_CLIP_01</Name>
+			<Model>eo_ar_carbineriflemk2_anime1_mag1</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_CR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<AmmoInfo />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_M4ANIME_CLIP_02</Name>
+			<Model>eo_ar_carbineriflemk2_anime1_mag2</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_CR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<AmmoInfo />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_M4ANIME_FLSH</Name>
+			<Model>eo_specialcarbinemk2_anime_flsh</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<MainLightIntensity value="6.000000" />
+			<MainLightColor value="0x00FF00FF" />
+			<MainLightRange value="20.000000" />
+			<MainLightFalloffExponent value="32.000000" />
+			<MainLightInnerAngle value="0.000000" />
+			<MainLightOuterAngle value="20.000000" />
+			<MainLightCoronaIntensity value="3.000000" />
+			<MainLightCoronaSize value="0.200000" />
+			<MainLightVolumeIntensity value="0.120000" />
+			<MainLightVolumeSize value="0.030000" />
+			<MainLightVolumeExponent value="0.010000" />
+			<MainLightVolumeOuterColor value="0x00FF00FF" />
+			<MainLightShadowFadeDistance value="15.000000" />
+			<MainLightSpecularFadeDistance value="15.000000" />
+			<SecondaryLightIntensity value="8.000000" />
+			<SecondaryLightColor value="0x00FF00FF" />
+			<SecondaryLightRange value="6.000000" />
+			<SecondaryLightFalloffExponent value="64.000000" />
+			<SecondaryLightInnerAngle value="0.000000" />
+			<SecondaryLightOuterAngle value="60.000000" />
+			<SecondaryLightVolumeIntensity value="0.300000" />
+			<SecondaryLightVolumeSize value="0.400000" />
+			<SecondaryLightVolumeExponent value="24.000000" />
+			<SecondaryLightVolumeOuterColor value="0x00FF00FF" />
+			<SecondaryLightFadeDistance value="10.000000" />
+			<fTargetDistalongAimCamera value="8.000000" />
+			<FlashLightBone>Gun_FLMuzzle001</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_Off001</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_On001</FlashLightBoneBulbOff>
+		</Item>
+
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_M4ANIME_SIGHTS</Name>
+			<Model>eo_specialcarbinemk2_anime_scope1</Model>
+			<LocName>WCT_HOLO</LocName>
+			<LocDesc>WCD_HOLO</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<CameraHash />
+			<RecoilShakeAmplitude value="0.280000" />
+			<ExtraZoomFactorForAccurateMode value="1.200000" />
+			<ReticuleHash />
+			<SpecialScopeType />
+		</Item>
+
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_M4ANIME_SIGHTS2</Name>
+			<Model>eo_specialcarbinemk2_anime_scope2</Model>
+			<LocName>WCT_HOLO</LocName>
+			<LocDesc>WCD_HOLO</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<CameraHash />
+			<RecoilShakeAmplitude value="0.280000" />
+			<ExtraZoomFactorForAccurateMode value="1.200000" />
+			<ReticuleHash />
+			<SpecialScopeType />
+		</Item>
+
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_M4ANIME_SUPP</Name>
+			<Model>eo_ar_carbineriflemk2_anime1_supp_01</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="CWeaponDamageModifier">
+				<DamageModifier value="1.000000" />
+			</DamageModifier>
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="-5" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="-5" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>
+
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_M4ANIME_MUZZLE_01</Name>
+			<Model>eo_ar_carbineriflemk2_anime1_muzzle_1</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_M4ANIME_MUZZLE_02</Name>
+			<Model>eo_ar_carbineriflemk2_anime1_muzzle_2</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_M4ANIME_AFGRIP_01</Name>
+			<Model>eo_ar_carbineriflemk2_anime1_afgrip</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000" />
+			</AccuracyModifier>
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+		</Item>
+
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_M4ANIME_CAMO_01</Name>
+			<Model>eo_m4anime_anim</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000" />
+			</AccuracyModifier>
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+		</Item>
+
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_M4ANIME_BARREL_01</Name>
+			<Model>eo_ar_carbineriflemk2_anime1_barrel</Model>
+			<LocName>WCT_BARR</LocName>
+			<LocDesc>WCD_BARR</LocDesc>
+			<AttachBone>AAPBarrel</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<ApplyWeaponTint value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+
+  </Infos>
+  <InfoBlobName />
+</CWeaponComponentInfoBlob>

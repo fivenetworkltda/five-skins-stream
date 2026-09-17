@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!--FAL DONNAKAMURA-->
+		<Item>
+			<modelName>eo_ar_fal_noroes</modelName>
+			<txdName>eo_ar_fal_noroes</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+		<Item>
+			<modelName>eo_ar_fal_noroes_mag1</modelName>
+			<txdName>eo_ar_fal_noroes_mag1</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+		<Item>
+			<modelName>eo_ar_fal_noroes_scope</modelName>
+			<txdName>eo_ar_fal_noroes_scope</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+		<Item>
+			<modelName>eo_fal_badboy</modelName>
+			<txdName>eo_fal_badboy</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+		<Item>
+			<modelName>eo_fal_noroesjr</modelName>
+			<txdName>eo_fal_noroesjr</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+		<Item>
+			<modelName>eo_fal_veditatv</modelName>
+			<txdName>eo_fal_veditatv</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

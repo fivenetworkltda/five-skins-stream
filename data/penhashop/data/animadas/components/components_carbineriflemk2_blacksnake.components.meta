@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponComponentInfoBlob>
+	<Infos>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_BLACKSNAKE_CLIP_01</Name>
+			<Model>eo_carbineriflemk2_blacksnake_mag1</Model>
+      		<LocName>WCT_CLIP1</LocName>
+      		<LocDesc>WCD_CLIP1</LocDesc>
+      		<AttachBone>AAPClip</AttachBone>
+      		<AccuracyModifier type="NULL" />
+      		<DamageModifier type="NULL" />
+      		<bShownOnWheel value="false" />
+      		<CreateObject value="true" />
+      		<HudDamage value="0" />
+      		<HudSpeed value="0" />
+      		<HudCapacity value="0" />
+      		<HudAccuracy value="0" />
+      		<HudRange value="0" />
+      		<ClipSize value="30" />
+      		<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_BLACKSNAKE_GRIP_BLACKSNAKE</Name>
+			<Model>eo_carbinerifle_grip_blacksnake</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+			<AccuracyModifier value="1.100000" />
+			</AccuracyModifier>
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_BLACKSNAKE_MK2CAMO01</Name>
+			<Model>eo_carbineriflemk2_blacksnake_camo</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+	</Infos>
+	<InfoBlobName />
+</CWeaponComponentInfoBlob>

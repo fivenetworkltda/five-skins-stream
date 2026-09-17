@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!--SPECIALCARBINE TOXIC-->
+		<Item>
+			<modelName>w_ar_specialcarbine_mag1_g3_toxic</modelName>
+			<txdName>w_ar_specialcarbine_mag1_g3_toxic</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>w_ar_specialcarbine_mag2_g3_toxic</modelName>
+			<txdName>w_ar_specialcarbine_mag2_g3_toxic</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_ar_specialcarbine_toxic</modelName>
+			<txdName>w_ar_specialcarbine_toxic</txdName>
+			<ptfxAssetName>weapon_tracer_eo_nany_green</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>w_at_ar_afgrip_g3_toxic</modelName>
+			<txdName>w_at_ar_afgrip_g3_toxic</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_at_ar_flsh_g3_toxic</modelName>
+			<txdName>w_at_ar_flsh_g3_toxic</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+		<Item>
+			<modelName>w_at_ar_supp_02_g3_toxic</modelName>
+			<txdName>w_at_ar_supp_02_g3_toxic</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+		<Item>
+			<modelName>w_at_scope_medium_g3_toxic</modelName>
+			<txdName>w_at_scope_medium_g3_toxic</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

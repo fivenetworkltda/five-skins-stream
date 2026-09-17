@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		 <Item>
+			<modelName>w_pi_pistolmk2_angel</modelName>
+			<txdName>w_pi_pistolmk2_angel</txdName>
+			<ptfxAssetName>weapon_tracer_eo_nany_white</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_pistolmk2_mag1_angel</modelName>
+			<txdName>w_pi_pistolmk2_mag1_angel</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		 <Item>
+			<modelName>w_ar_specialcarbinemk2_angel</modelName>
+			<txdName>w_ar_specialcarbinemk2_angel</txdName>
+			<ptfxAssetName>weapon_tracer_eo_nany_white</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_specialcarbinemk2_mag1_angel</modelName>
+			<txdName>w_ar_specialcarbinemk2_mag1_angel</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

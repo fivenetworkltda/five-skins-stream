@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>elieloliveira_specialcarbinemk2_supp_01</modelName>
+			<txdName>elieloliveira_specialcarbinemk2_supp_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_specialcarbinemk2_scope_01</modelName>
+			<txdName>elieloliveira_specialcarbinemk2_scope_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_specialcarbinemk2_mag1</modelName>
+			<txdName>elieloliveira_specialcarbinemk2_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_specialcarbinemk2_flsh_01</modelName>
+			<txdName>elieloliveira_specialcarbinemk2_flsh_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_specialcarbinemk2_bandoleira_01</modelName>
+			<txdName>elieloliveira_specialcarbinemk2_bandoleira_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_specialcarbinemk2_afgrip_01</modelName>
+			<txdName>elieloliveira_specialcarbinemk2_afgrip_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>elieloliveira_specialcarbinemk2_01</modelName>
+			<txdName>elieloliveira_specialcarbinemk2_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

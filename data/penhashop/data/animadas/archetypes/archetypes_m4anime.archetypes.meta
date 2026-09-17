@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- CARBINE RIFLE MK2 ANIME -->
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_anime1</modelName>
+			<txdName>eo_ar_carbineriflemk2_anime1</txdName>
+			<ptfxAssetName>weapon_tracer_purple_nany</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_anime1_afgrip</modelName>
+			<txdName>eo_ar_carbineriflemk2_anime1_afgrip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_anime1_mag1</modelName>
+			<txdName>eo_ar_carbineriflemk2_anime1_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_anime1_mag2</modelName>
+			<txdName>eo_ar_carbineriflemk2_anime1_mag2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_anime1_muzzle_1</modelName>
+			<txdName>eo_ar_carbineriflemk2_anime1_muzzle_1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_anime1_muzzle_2</modelName>
+			<txdName>eo_ar_carbineriflemk2_anime1_muzzle_2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_anime1_supp_01</modelName>
+			<txdName>eo_ar_carbineriflemk2_anime1_supp_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_anime_flsh</modelName>
+			<txdName>eo_specialcarbinemk2_anime_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_anime_scope1</modelName>
+			<txdName>eo_specialcarbinemk2_anime_scope1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_specialcarbinemk2_anime_scope2</modelName>
+			<txdName>eo_specialcarbinemk2_anime_scope2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_anime1_barrel</modelName>
+			<txdName>eo_ar_carbineriflemk2_anime1_barrel</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_m4anime_anim</modelName>
+			<txdName>eo_m4anime_anim</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

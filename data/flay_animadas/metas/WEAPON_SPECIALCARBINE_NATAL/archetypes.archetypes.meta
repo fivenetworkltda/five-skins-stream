@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+    <!--KNIFE1-->
+    <Item>
+      <modelName>nany_specialcarbine_natal_mag1</modelName>
+      <txdName>nany_specialcarbine_natal_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="300"/>
+    </Item>
+    <Item>
+      <modelName>nany_specialcarbine_natal</modelName>
+      <txdName>nany_specialcarbine_natal</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="300"/>
+    </Item>
+    <Item>
+      <modelName>nany_specialcarbine_natal_afgrip</modelName>
+      <txdName>nany_specialcarbine_natal_afgrip</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="300"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

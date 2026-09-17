@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponInfoBlob>
+	<SlotNavigateOrder>
+		<Item>
+			<WeaponSlots>
+				<Item>
+					<OrderNumber value="441" />
+					<Entry>SLOT_WEAPON_PRGB</Entry>
+				</Item>
+			</WeaponSlots>
+		</Item>
+	</SlotNavigateOrder>
+	<Infos>
+		<Item>
+			<Infos>
+			</Infos>
+		</Item>
+	</Infos>
+	<Name>AR</Name>
+</CWeaponInfoBlob>

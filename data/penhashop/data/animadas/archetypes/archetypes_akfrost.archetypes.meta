@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- assault rifle -->
+		<Item>
+			<modelName>weapon_assaultriflemk2_permafrost</modelName>
+			<txdName>weapon_assaultriflemk2_permafrost</txdName>
+			<ptfxAssetName>NUUL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>weapon_assaultriflemk2_permafrost_mag1</modelName>
+			<txdName>weapon_assaultriflemk2_permafrost_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

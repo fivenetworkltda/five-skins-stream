@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+    <!--G3 HELLFIRE-->
+    <Item>
+      <modelName>nany_pinkfire_scope_special_02</modelName>
+      <txdName>nany_pinkfire_scope_special_02</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_pinkfire_specialcarbinemk2_mag1</modelName>
+      <txdName>nany_pinkfire_specialcarbinemk2_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_pinkfire_specialcarbinemk2_scope_02</modelName>
+      <txdName>nany_pinkfire_specialcarbinemk2_scope_02</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_pinkfire_specialcarbinemk2</modelName>
+      <txdName>nany_pinkfire_specialcarbinemk2</txdName>
+      <ptfxAssetName>weapon_tracer_eo_nany_rosa</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_pinkfire_supp_specialcarbinemk2</modelName>
+      <txdName>nany_pinkfire_supp_specialcarbinemk2</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_pinkfire_flsh_2_g3</modelName>
+      <txdName>nany_pinkfire_flsh_2_g3</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+
+    
+    <Item>
+      <modelName>nany_pinkfire_appistol</modelName>
+      <txdName>nany_pinkfire_appistol</txdName>
+      <ptfxAssetName>weapon_tracer_eo_nany_rosa</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_pinkfire_appistol_mag1</modelName>
+      <txdName>nany_pinkfire_appistol_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_pinkfire_flsh_appistol</modelName>
+      <txdName>nany_pinkfire_flsh_appistol</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>nany_pinkfire_supp_appistol</modelName>
+      <txdName>nany_pinkfire_supp_appistol</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

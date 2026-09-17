@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponComponentInfoBlob>
+	<Infos>
+
+    <Item type="CWeaponComponentVariantModelInfo">
+      <Name>COMPONENT_SWITCHBLADE_KAWAI_ANIM</Name>
+      <Model>w_switchblade_kawai</Model>
+      <LocName>WCT_INVALID</LocName>
+      <LocDesc>WCD_INVALID</LocDesc>
+      <AttachBone />
+      <AccuracyModifier type="NULL" />
+      <DamageModifier type="NULL" />
+      <bShownOnWheel value="false" />
+      <CreateObject value="false" />
+      <HudDamage value="0" />
+      <HudSpeed value="0" />
+      <HudCapacity value="0" />
+      <HudAccuracy value="0" />
+      <HudRange value="0" />
+      <TintIndexOverride value="2" />
+      <ExtraComponents>      
+        <Item>
+          <ComponentName>WEAPON_SKIN_OMEX_BASE</ComponentName>
+          <ComponentModel>w_switchblade_kawai_animuv</ComponentModel>
+        </Item>
+        <Item>
+          <ComponentName>WEAPON_SKIN_OMEX_BASE_SLIDE</ComponentName>
+          <ComponentModel>w_switchblade_kawai_slide</ComponentModel>
+        </Item>        
+      </ExtraComponents>
+    </Item> 	 
+
+	</Infos>
+	<InfoBlobName/>
+</CWeaponComponentInfoBlob>

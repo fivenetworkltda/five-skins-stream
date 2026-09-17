@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+     <!--G3 HELLFIRE-->
+    <Item>
+      <modelName>g3_hellfire</modelName>
+      <txdName>g3_hellfire</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>g3_hellfire_mag1</modelName>
+      <txdName>g3_hellfire_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    
+    <!--KNIFE HELLFIRE-->
+    <Item>
+      <modelName>w_me_knifehellfire</modelName>
+      <txdName>w_me_knifehellfire</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

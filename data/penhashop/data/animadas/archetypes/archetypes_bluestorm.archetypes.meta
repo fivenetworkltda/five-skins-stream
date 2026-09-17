@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>nany_bluestorm_specialcarbinemk2</modelName>
+			<txdName>nany_bluestorm_specialcarbinemk2</txdName>
+			<ptfxAssetName>tracer_bluenany</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>nany_bluestorm_specialcarbinemk2_mag1</modelName>
+			<txdName>nany_bluestorm_specialcarbinemk2_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>nany_bluestorm_supp_specialcarbinemk2</modelName>
+			<txdName>nany_bluestorm_supp_specialcarbinemk2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_pi_pistolmk2_omex</modelName>
+			<txdName>w_pi_pistolmk2_omex</txdName>
+			<txdName>decal_anim_omex</txdName>			
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_pi_pistolmk2_omex_mag1</modelName>
+			<txdName>w_pi_pistolmk2_omex_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>	
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+  		<Item>
+			<modelName>g36dragonwire_mag1</modelName>
+			<txdName>g36dragonwire_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+    <Item>
+      <modelName>w_ar_g36dragonwireflay</modelName>
+      <txdName>w_ar_g36dragonwireflay</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="550"/>
+    </Item>
+      <Item>
+      <modelName>dragonwiree_camo1</modelName>
+      <txdName>dragonwiree_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

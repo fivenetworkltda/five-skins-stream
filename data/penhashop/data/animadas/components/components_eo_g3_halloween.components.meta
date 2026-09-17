@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponComponentInfoBlob>
+	<Data>
+	</Data>
+	<Infos>
+		<!--Special Carbine mk2-->
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_EO_HALLOWEEN_SPECIALCARBINEMK2_CLIP_01</Name>
+			<Model>eo_specialcarbinemk2_halloween_mag1</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_EO_HALLOWEEN_SPECIALCARBINEMK2_MUZZLE_01</Name>
+			<Model>eo_specialcarbinemk2_halloween_muzzle_1</Model>
+			<LocName>WCT_MUZZ</LocName>
+			<LocDesc>WCD_MUZZ</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFX />
+			<ShouldSilence value="false" />
+			<RecoilShakeAmplitudeModifier value="0.650000" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_EO_HALLOWEEN_SPECIALCARBINEMK2_AFGRIP_01</Name>
+			<Model>eo_specialcarbinemk2_halloween_afgrip_01</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+			<AccuracyModifier value="1.100000" />
+			</AccuracyModifier>
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_EO_HALLOWEEN_SPECIALCARBINEMK2_SCOPE</Name>
+			<Model>eo_specialcarbinemk2_halloween_scope</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="5" />
+			<HudRange value="0" />
+			<CameraHash />
+			<RecoilShakeAmplitude value="0.280000" />
+			<ExtraZoomFactorForAccurateMode value="1.500000" />
+			<Reticule value="0" />
+			<ReticuleHash />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_EO_HALLOWEEN_SPECIALCARBINEMK2_SUPP</Name>
+			<Model>eo_specialcarbinemk2_halloween_supp</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="CWeaponDamageModifier">
+				<DamageModifier value="1.000000" />
+			</DamageModifier>
+			<bShownOnWheel value="true" />
+			<CreateObject value="true" />
+			<HudDamage value="-5" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="-5" />
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_EO_HALLOWEEN_SPECIALCARBINEMK2_BARREL_01</Name>
+			<Model>eo_specialcarbinemk2_halloween_barrel</Model>
+			<LocName>WCT_BARR</LocName>
+			<LocDesc>WCD_BARR</LocDesc>
+			<AttachBone>AAPBarrel</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<ApplyWeaponTint value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_EO_HALLOWEEN_SPECIALCARBINEMK2_CAMO</Name>
+			<Model>eo_specialcarbinemk2_halloween_camo</Model>
+			<LocName>WCD_INVALID</LocName>
+			<LocDesc>WCD_INVALID</LocDesc>
+			<AttachBone>AAPCamo</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+	</Infos>
+	<InfoBlobName>DLC - PACK HALLOWEEN</InfoBlobName>
+</CWeaponComponentInfoBlob>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>eo_specialcarbinemk2_aura_black_oni</modelName>
+			<txdName>eo_specialcarbinemk2_aura_black_oni</txdName>
+			<ptfxAssetName>eo_weapon_tracer_special_red</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

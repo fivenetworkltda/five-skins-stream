@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_ar_tacozeusflay</modelName>
+			<txdName>w_ar_tacozeusflay</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="150"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_tacozeusflay_fire</modelName>
+			<txdName>w_ar_tacozeusflay_fire</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="150"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

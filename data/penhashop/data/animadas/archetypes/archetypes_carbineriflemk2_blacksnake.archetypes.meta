@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>eo_carbineriflemk2_blacksnake</modelName>
+			<txdName>eo_carbineriflemk2_blacksnake</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+		<Item>
+			<modelName>eo_carbinerifle_grip_blacksnake</modelName>
+			<txdName>eo_carbinerifle_grip_blacksnake</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+		<Item>
+			<modelName>eo_carbineriflemk2_blacksnake_mag1</modelName>
+			<txdName>eo_carbineriflemk2_blacksnake_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

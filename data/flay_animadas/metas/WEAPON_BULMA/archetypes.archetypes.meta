@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>whitefirenoroes_carbinemk2</modelName>
+			<txdName>whitefirenoroes_carbinemk2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>whitefiredogdog_carbinemk2</modelName>
+			<txdName>whitefiredogdog_carbinemk2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>whitefiremattew_carbinemk2</modelName>
+			<txdName>whitefiremattew_carbinemk2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>whitefiregalvis_carbinemk2</modelName>
+			<txdName>whitefiregalvis_carbinemk2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>whitefirebadboy_carbinemk2</modelName>
+			<txdName>whitefirebadboy_carbinemk2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>whitefirevedita_carbinemk2</modelName>
+			<txdName>whitefirevedita_carbinemk2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>whitefirenoroes_carbinemk2_mag1</modelName>
+			<txdName>whitefirenoroes_carbinemk2_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>whitefirebulma_carbinemk2</modelName>
+			<txdName>whitefirebulma_carbinemk2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

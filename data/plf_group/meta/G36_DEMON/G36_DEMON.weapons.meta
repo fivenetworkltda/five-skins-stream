@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponInfoBlob>
+	<SlotNavigateOrder>
+		<Item>
+			<WeaponSlots>
+				<Item>
+					<OrderNumber value="426" />
+					<Entry>SLOT_WEAPON_G36DEMON</Entry>
+				</Item>
+			</WeaponSlots>
+		</Item>
+	</SlotNavigateOrder>
+	<Infos>
+		<Item>
+			<Infos>
+			</Infos>
+		</Item>
+		<Item>
+			<Infos />
+		</Item>
+		<Item>
+			<Infos />
+		</Item>
+	</Infos>
+	<VehicleWeaponInfos />
+	<Name>DLC - Special Carbine</Name>
+</CWeaponInfoBlob>

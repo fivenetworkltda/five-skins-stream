@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- knife -->
+		 <Item>
+			<modelName>w_me_knife20</modelName>
+			<txdName>w_me_knife20</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_rgx_knife_anim</modelName>
+			<txdName>eo_rgx_knife_anim</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<!-- assault rifle -->
+		<Item>
+			<modelName>eo_rgx_assaultriflemk2</modelName>
+			<txdName>eo_rgx_assaultriflemk2</txdName>
+			<ptfxAssetName>NUUL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_rgx_assaultriflemk2_mag1</modelName>
+			<txdName>eo_rgx_assaultriflemk2_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_rgx_assaultriflemk2_anim</modelName>
+			<txdName>eo_rgx_assaultriflemk2_anim</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<!-- pistol mk2 -->
+		 <Item>
+			<modelName>eo_rgx_pistolmk2</modelName>
+			<txdName>eo_rgx_pistolmk2</txdName>
+			<ptfxAssetName>NUUL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_rgx_pistolmk2_mag1</modelName>
+			<txdName>eo_rgx_pistolmk2_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_rgx_pistolmk2_anim</modelName>
+			<txdName>eo_rgx_pistolmk2_anim</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<!-- special carbine -->
+		<Item>
+			<modelName>eo_rgx_specialcarbine</modelName>
+			<txdName>eo_rgx_specialcarbine</txdName>
+			<ptfxAssetName>NUUL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_rgx_specialcarbine_mag1</modelName>
+			<txdName>eo_rgx_specialcarbine_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_rgx_specialcarbine_anim</modelName>
+			<txdName>eo_rgx_specialcarbine_anim</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<!--  machine-->
+		<Item>
+			<modelName>eo_rgx_compactsmg</modelName>
+			<txdName>eo_rgx_compactsmg</txdName>
+			<ptfxAssetName>NUUL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>eo_rgx_compactsmg_mag1</modelName>
+			<txdName>eo_rgx_compactsmg_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

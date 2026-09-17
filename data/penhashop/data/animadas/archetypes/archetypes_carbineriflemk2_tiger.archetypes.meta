@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_tiger</modelName>
+			<txdName>eo_ar_carbineriflemk2_tiger</txdName>
+			<ptfxAssetName>weapon_tracer_eo_nany_orange</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_tiger_mag1</modelName>
+			<txdName>eo_ar_carbineriflemk2_tiger_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_tiger_scope</modelName>
+			<txdName>eo_ar_carbineriflemk2_tiger_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

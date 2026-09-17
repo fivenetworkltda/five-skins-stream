@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+    <!--G3 FUTURE-->
+    <Item>
+      <modelName>plf_future_g3mk2</modelName>
+      <txdName>plf_future_g3mk2</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_future_g3mk2_mag1</modelName>
+      <txdName>plf_future_g3mk2_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_future_g3mk2_camo1</modelName>
+      <txdName>plf_future_g3mk2_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <!--MTAR FUTURE-->
+    <Item>
+      <modelName>plf_future_smg</modelName>
+      <txdName>plf_future_smg</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_future_smg_camo1</modelName>
+      <txdName>plf_future_smg_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_future_smg_mag</modelName>
+      <txdName>plf_future_smg_mag</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <!--APPISTOL FUTURE-->
+    <Item>
+      <modelName>plf_future_appistol</modelName>
+      <txdName>plf_future_appistol</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_future_appistol_camo1</modelName>
+      <txdName>plf_future_appistol_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_future_appistol_mag1</modelName>
+      <txdName>plf_future_appistol_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <!--AK FUTURE-->
+    <Item>
+      <modelName>plf_assaultriflemk2_future</modelName>
+      <txdName>plf_assaultriflemk2_future</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_assaultriflemk2_future_mag1</modelName>
+      <txdName>plf_assaultriflemk2_future_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_assaultrifle_future_camo1</modelName>
+      <txdName>plf_assaultrifle_future_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <!--TECNINE FUTURE-->
+    <Item>
+      <modelName>plf_compactsmg_future</modelName>
+      <txdName>plf_compactsmg_future</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_compactsmg_future_camo1</modelName>
+      <txdName>plf_compactsmg_future_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_compactsmg_future_mag1</modelName>
+      <txdName>plf_compactsmg_future_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <!--CARBINERIFLEMK2 FUTURE-->
+    <Item>
+      <modelName>plf_carbineriflemk2_future_camo1</modelName>
+      <txdName>plf_carbineriflemk2_future_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_carbineriflemk2_future</modelName>
+      <txdName>plf_carbineriflemk2_future</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>plf_carbineriflemk2_future_mag1</modelName>
+      <txdName>plf_carbineriflemk2_future_mag1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <!--KARAMBIT FUTURE-->
+    <Item>
+      <modelName>w_me_knifefutureplf</modelName>
+      <txdName>w_me_knifefutureplf</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+    <Item>
+      <modelName>w_me_knifefutureplf_camo1</modelName>
+      <txdName>w_me_knifefutureplf_camo1</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="50"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

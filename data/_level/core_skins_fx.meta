@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles/>
+  <includedXmlFiles/>
+  <includedDataFiles/>
+  <dataFiles>
+    <Item>
+      <filename>resources:/core-skins-stream/data/_level/entityfxflay.dat</filename>
+      <fileType>ENTITYFX_FILE</fileType>
+    </Item>
+    <Item>
+      <filename>resources:/core-skins-stream/data/_level/omexweaponsfx.dat</filename>
+      <fileType>ENTITYFX_FILE</fileType>
+    </Item>
+  </dataFiles>
+</CDataFileMgr__ContentsOfDataFileXml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_flk_awpfujinflay_mag1</modelName>
+			<txdName>w_flk_awpfujinflay_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="150"/>
+		</Item>
+		<Item>
+			<modelName>w_flk_awpfujinflay</modelName>
+			<txdName>w_flk_awpfujinflay</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_flk_awpfujinflay_scope</modelName>
+			<txdName>w_flk_awpfujinflay_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="150"/>
+		</Item>
+		<Item>
+			<modelName>w_flk_awpfujinflay_camo1</modelName>
+			<txdName>w_flk_awpfujinflay_camo1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="150"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_civil_police</modelName>
+			<txdName>eo_ar_carbineriflemk2_civil_police</txdName>
+			<ptfxAssetName>eo_weapon_tracer_special_red_blue</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>		
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_civil_police_mag1</modelName>
+			<txdName>eo_ar_carbineriflemk2_civil_police_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>eo_ar_carbineriflemk2_civil_police_scope_01</modelName>
+			<txdName>eo_ar_carbineriflemk2_civil_police_scope_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+			
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

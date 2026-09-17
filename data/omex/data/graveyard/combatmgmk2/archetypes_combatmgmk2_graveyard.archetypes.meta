@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_mg_combatmgmk2_graveyard</modelName>
+			<txdName>w_mg_combatmgmk2_graveyard</txdName>
+			<ptfxAssetName>fxomex</ptfxAssetName>
+			<lodDist value="300" />
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
